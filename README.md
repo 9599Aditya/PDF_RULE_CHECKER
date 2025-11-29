@@ -1,5 +1,3 @@
-🚀 NIYAMR PDF Rule Checker
-
 A full-stack mini-tool to validate any PDF against custom user-defined rules.
 
 ⭐ About the Project
@@ -90,7 +88,7 @@ Type 3 rules
 Click Check Document
 
 ✔ Option B — Use test PDF (server path)
-/mnt/data/NIYAMR_Fullstack_Assignment.pdf
+/mnt/data/NameOfFile.pdf
 
 
 ⚠ DO NOT upload a file and enter a server path at the same time.
